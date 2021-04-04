@@ -1,7 +1,7 @@
 # Interactive_Image_Segmentation_with_graph-cut_algorithm
  Interactive_Image_Segmentation_with_graph-cut_OpenCV_python
 
-![](result/mask_iron_result.png)
+![](result/segment_iron_result.png)
 
 
 # Library Installations:
