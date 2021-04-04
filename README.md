@@ -1,8 +1,8 @@
-# Interactive_Image_Segmentation_with_graph-cut_OpenCV_python
+# Interactive_Image_Segmentation_with_graph-cut_&_chan-vase_&_normalized-cut
 
 ![](image/iron.jpeg)
 
-![](result/segment_iron_result.png)
+![](chanvase_result/Figure_egg.png)
 
 
 # Library Installations:
