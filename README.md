@@ -2,7 +2,7 @@
 
 ![](result/segment_result.png)
 
-![](chanvase_result/Figure_egg.png)
+![](chanvase_result/Figure_xray.png)
 
 
 # Library Installations:
