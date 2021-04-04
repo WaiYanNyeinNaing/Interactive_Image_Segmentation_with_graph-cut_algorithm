@@ -1,6 +1,6 @@
-# Interactive_Image_Segmentation_with_graph-cut_&_chan-vase_&_normalized-cut
+# Interactive_Image_Segmentation_with_Graph-cut_&_Chan-vase_&_Normalized-cut
 
-![](image/iron.jpeg)
+![](image/segment_result.png)
 
 ![](chanvase_result/Figure_egg.png)
 
